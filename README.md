@@ -1,22 +1,19 @@
-## Hi there 👋
+# Hi, I'm Pius 👋
 
-## Coding Profiles
+I'm currently in my fifth semester at Karlsruhe University of Applied Sciences (HKA).
+
+## 🧩 LeetCode
 
 <a href="https://leetcode.com/u/PiusTebbe/">
-  <img src="https://leetcard.jacoblin.cool/PiusTebbe?theme=dark&font=Inter" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/PiusTebbe?theme=dark&font=Inter"
+       alt="LeetCode Stats"/>
 </a>
 
-<!--
-**Pius-06/Pius-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pius-06&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+
+- GitHub: [Pius-06](https://github.com/Pius-06)
+- LeetCode: [PiusTebbe](https://leetcode.com/u/PiusTebbe/)
