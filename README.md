@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Coding Profiles
+
+<a href="https://leetcode.com/u/PiusTebbe/">
+  <img src="https://leetcard.jacoblin.cool/PiusTebbe?theme=dark&font=Inter" alt="LeetCode Stats"/>
+</a>
+
 <!--
 **Pius-06/Pius-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
